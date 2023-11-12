@@ -10,4 +10,4 @@
 // };
 
 
-window.alert("XSS is possible...");
+alert("XSS is possible...");
